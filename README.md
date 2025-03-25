@@ -67,6 +67,10 @@ Proyek ini berisi **5 implementasi kode C++** dengan **berbagai paradigma pemrog
 ✅ Mengeksplorasi perbedaan antara pendekatan **Imperative, Procedural, Declarative, Functional, dan Array-Based**  
 ✅ Membantu pembelajaran konsep **abstraksi, enkapsulasi, dan manipulasi data**  
 
+
+---
+
+### 📌 **Cara Menggunakan di GitHub**
 1. **Buka proyek GitHub kamu**  
 2. **Tambahkan file `README.md`** di root directory  
 3. **Copy & paste teks di atas ke dalam `README.md`**  
