@@ -77,4 +77,3 @@ Proyek ini berisi **5 implementasi kode C++** dengan **berbagai paradigma pemrog
 4. **Commit & push perubahan ke repository**  
 5. 🎉 **README.md akan muncul di halaman utama GitHub!**  
 
-🚀 **Sekarang README.md kamu siap digunakan di GitHub dengan tampilan yang rapi!** 🚀
